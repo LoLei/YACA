@@ -24,7 +24,7 @@ optional arguments:
 ```
 
 ## Related
-[YASM](https://github.com/LoLei/yasm)
+[YASM](https://github.com/LoLei/yasm) - Yet Another Site Mapper
 
 ## Authors
 * [@AlmostBearded](https://github.com/AlmostBearded)
