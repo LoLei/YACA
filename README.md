@@ -1,5 +1,5 @@
 # YACA
-Yet Another Content Auditor
+**Y**et **A**nother **C**ontent **A**uditor
 
 ## Usage
 ```
@@ -22,6 +22,9 @@ optional arguments:
   -ct CONTENTTYPE, --contenttype CONTENTTYPE
                         Content-Type of pages that should be crawled (default = only text/html)
 ```
+
+## Related
+[YASM](https://github.com/LoLei/yasm)
 
 ## Authors
 * [@AlmostBearded](https://github.com/AlmostBearded)
