@@ -57,6 +57,7 @@ def main(args):
                 for row in reader:
                     del row[col_index]
                     writer.writerow(row)
+        os.remove(output_file_csv)
         os.rename(output_file_csv + "tmp", output_file_csv)
 
     print("YACA: Post-crawl cleanup finished.")
