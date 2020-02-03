@@ -3,6 +3,10 @@
 
 Generate a content audit of a website free and open-source.
 
+## Requirements
+* Python 3.x
+* Scrapy
+
 ## Usage
 ```
 $ ./yaca.py -h
