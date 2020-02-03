@@ -4,8 +4,8 @@
 Generate a content audit of a website free and open-source.
 
 ## Requirements
-* Python 3.x
-* Scrapy
+* [Python 3.x](https://www.python.org/)
+* [Scrapy](https://scrapy.org/)
 
 ## Usage
 ```
@@ -47,5 +47,4 @@ Create a (visual) site map from the output of YACA.
 ## Authors
 * [@AlmostBearded](https://github.com/AlmostBearded)
 * [@d4geiger](https://github.com/d4geiger)
-* [@Erago3](https://github.com/Erago3)
 * [@LoLei](https://github.com/LoLei)
