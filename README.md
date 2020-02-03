@@ -1,6 +1,8 @@
 # YACA
 **Y**et **A**nother **C**ontent **A**uditor
 
+Generate a content audit of a website free and open-source.
+
 ## Usage
 ```
 $ ./yaca.py -h
@@ -22,6 +24,17 @@ optional arguments:
   -ct CONTENTTYPE, --contenttype CONTENTTYPE
                         Content-Type of pages that should be crawled (default = only text/html)
 ```
+
+## Example
+`./yaca.py brunch.io`
+
+| url                                    | content_type             | status | title                                | h1                                    |
+|----------------------------------------|--------------------------|--------|--------------------------------------|---------------------------------------|
+| https://brunch.io/                     | text/html; charset=utf-8 | 200    | Brunch - ultra-fast HTML5 build tool | Seeing your build tool in nightmares? |
+| https://brunch.io/plugins              | text/html; charset=utf-8 | 200    | Brunch - ultra-fast HTML5 build tool | Plugins                               |
+| https://brunch.io/skeletons            | text/html; charset=utf-8 | 200    | Brunch - ultra-fast HTML5 build tool | Skeletons                             |
+| https://brunch.io/docs/getting-started | text/html; charset=utf-8 | 200    | Brunch - ultra-fast HTML5 build tool | Brunch: Getting started               |
+| ...                                    | ...                      | ...    | ...                                  | ...                                   |
 
 ## Related
 [YASM](https://github.com/LoLei/yasm) - Yet Another Site Mapper
