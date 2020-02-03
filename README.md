@@ -44,6 +44,9 @@ optional arguments:
 [YASM](https://github.com/LoLei/yasm) - **Y**et **A**nother **S**ite **M**apper  
 Create a (visual) site map from the output of YACA.
 
+## License
+[MIT](https://github.com/LoLei/YACA/blob/master/LICENSE)
+
 ## Authors
 * [@AlmostBearded](https://github.com/AlmostBearded)
 * [@d4geiger](https://github.com/d4geiger)
