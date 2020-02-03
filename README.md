@@ -41,7 +41,8 @@ optional arguments:
 | ...                                    | ...                      | ...    | ...                                  | ...                                   |
 
 ## Related
-[YASM](https://github.com/LoLei/yasm) - Yet Another Site Mapper
+[YASM](https://github.com/LoLei/yasm) - **Y**et **A**nother **S**ite **M**apper  
+Create a (visual) site map from the output of YACA.
 
 ## Authors
 * [@AlmostBearded](https://github.com/AlmostBearded)
