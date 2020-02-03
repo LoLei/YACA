@@ -51,3 +51,6 @@ Create a (visual) site map from the output of YACA.
 * [@AlmostBearded](https://github.com/AlmostBearded)
 * [@d4geiger](https://github.com/d4geiger)
 * [@LoLei](https://github.com/LoLei)
+
+## Background
+Developed originally for the class [Information Architecture and Web Usability](https://courses.isds.tugraz.at/iaweb/).
