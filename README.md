@@ -6,6 +6,7 @@ Generate a content audit of a website free and open-source.
 ## Requirements
 * [Python 3.x](https://www.python.org/)
 * [Scrapy](https://scrapy.org/)
+* [attrs 19.2.x](https://www.attrs.org/)
 
 ## Usage
 ```
